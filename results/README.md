@@ -1,5 +1,5 @@
 # Q1
-The most efficient of the 500 designs was random seed 383 (with the efficiency parameter of 0.15455).The least efficiency of the 500 designs was random seed 213 (with the efficeincy parameter of 0.24210).
+The most efficient of the 500 designs was random seed 383 (with the efficiency parameter of 0.15455).The least efficient of the 500 designs was random seed 213 (with the efficiency parameter of 0.24210).
 
 When comparing the plots for the best and worst designs (results/design\_best.png and results/design\_worst.png in this repository, respectively), the biggest thing that stands out to me is that the worst design has an extended period in which no stimuli are present (no stimulus is presented for volumes ~80-120), whereas the best design has far fewer extended intervals without stimuli. The second thing that stands out is that in the best design, stimulus type seem to be a bit more concentrated in time, in that a period of predominately one condition (shown as green, for example) is present, flanked by periods of a different stimulus type (i.e., the red and blue). For the worst design, there's a lot more condition variability in a given time period.
 
