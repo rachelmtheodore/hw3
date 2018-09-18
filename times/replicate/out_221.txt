@@ -1,0 +1,23 @@
+------------------------------------------------------------
+GLT matrix from 'SYM: A -B':
+   0   0   1  -1   0 
+ 
+------------------------------------------------------------
+GLT matrix from 'SYM: A -C':
+   0   0   1   0  -1 
+ 
+
+Stimulus: A 
+  h[ 0] norm. std. dev. =   0.1590
+
+Stimulus: B 
+  h[ 0] norm. std. dev. =   0.1454
+
+Stimulus: C 
+  h[ 0] norm. std. dev. =   0.1593
+
+General Linear Test: GLT#1  
+  LC[0] norm. std. dev. =   0.1940 
+
+General Linear Test: GLT#2  
+  LC[0] norm. std. dev. =   0.2063 
